@@ -1,0 +1,34 @@
+#gameContainer{
+    text-align: center;
+}
+#gameBoard{
+    border: 3px solid;
+}
+#scoreText{
+    font-family: "Permanent Marker", cursive;
+    font-size: 100px;
+}
+#resetBtn{
+    font-family: "Permanent Marker", cursive;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;}
+#highScore{
+    font-family: "Permanent Marker",  cursive;
+    font-size: 15px;
+    height: 40px;
+    width: 90px;
+    border: 5px solid;
+    border-radius: 10px;}
+
+    #bestScore{
+        font-family: "Permanent Marker", cursive,Serif;
+        font-size: 50PX;
+
+    }
+
+
+
