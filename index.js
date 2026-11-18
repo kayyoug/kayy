@@ -52,7 +52,7 @@ function nextTick(){
             nextTick();
 
 
-        },50);
+        },25);
 
     }
     else {displayGameover()}
